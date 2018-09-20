@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blaze</title>
+    <meta name="description" content="">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=bOMOW6W7vr">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=bOMOW6W7vr">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png?v=bOMOW6W7vr">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=bOMOW6W7vr">
+    <link rel="manifest" href="/site.webmanifest?v=bOMOW6W7vr">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg?v=bOMOW6W7vr" color="#000000">
+    <link rel="shortcut icon" href="/favicon.ico?v=bOMOW6W7vr">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#000000">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@lindseyemaddox">
+    <meta name="twitter:creator" content="@lindseyemaddox">
+    <meta name="twitter:title" content="Lindsey Maddox | Web Developer + Designer">
+    <meta name="twitter:description" content="Lindsey Maddox is a top-performing web developer and graphic designer with a passion for creating beautiful, functional, fluidly responsive websites.">
+    <meta name="twitter:image:src" content="https://www.lindseymaddox.com/_images/twitter-card.jpg">
+    <meta property="og:image:width" content="279">
+    <meta property="og:image:height" content="279">
+    <meta property="og:title" content="Lindsey Maddox | Web Developer + Designer">
+    <meta property="og:url" content="https://www.lindseymaddox.com">
+    <meta property="og:image" content="https://www.lindseymaddox.com/_images/og-image.jpg">
+    <meta property="og:site_name" content="Lindsey Maddox | Web Developer + Designer">
+    <meta property="og:description" content="Lindsey Maddox is a top-performing web developer and graphic designer with a passion for creating beautiful, functional, fluidly responsive websites.">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Quicksand:300,500,700">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.0/flexslider.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.css">
+    <link rel="stylesheet" type="text/css" href="_styles/compiled.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.3/picturefill.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="_scripts/min/flexslider-min.js"></script>
+    <script type="text/javascript" src="_scripts/min/nav-min.js"></script>
+    <script type="text/javascript" src="_scripts/min/main-min.js"></script>
+    <script type="text/javascript" src="_scripts/min/html5ext-min.js"></script>
+    <script>
+      (function() {
+      
+        // store the slider in a local variable
+        var $window = $(window),
+            flexslider = { vars:{} };
+       
+        // tiny helper function to add breakpoints
+        function getGridSize() {
+          return (window.innerWidth < 100) ? 2 :
+                 (window.innerWidth < 750) ? 3 : 4;
+        }
+       
+        $(document).ready(function() {
+          $('.fancybox').fancybox();
+          $('.flexslider').flexslider({
+            minItems: getGridSize(), // use function to pull in initial value
+            maxItems: getGridSize() // use function to pull in initial value
+          });
+        });
+       
+        // check grid size on resize event
+        $window.resize(function() {
+          var gridSize = getGridSize();
+          flexslider.vars.minItems = gridSize;
+          flexslider.vars.maxItems = gridSize;
+        });
+      }());
+      
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55633656-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-55633656-1');
+    </script>
+    <body>
+      <div class="easyhtml5video">
+        <video property="video" autoplay="autoplay" title="background" loop="loop" onended="var v=this;setTimeout(function(){v.play()},300)">
+          <source src="_includes/video/black.m4v" type="video/mp4">
+          <source src="_includes/video/black.webm" type="video/webm">
+          <source src="_includes/video/black.mp4">
+          <object type="application/x-shockwave-flash" data="_includes/video/flashfox.swf" width="3840" height="2160" style="position:relative;">|
+            <param name="movie" value="_includes/video/flashfox.swf">
+            <param name="allowFullScreen" value="true">
+            <param name="flashVars" value="autoplay=true&amp;controls=false&amp;fullScreenEnabled=false&amp;posterOnEnd=true&amp;loop=true&amp;poster=background.files/black.jpg&amp;src=black.m4v">
+            <embed src="_includes/video/flashfox.swf" width="3840" height="2160" style="position:relative;" flashVars="autoplay=true&amp;controls=false&amp;fullScreenEnabled=false&amp;posterOnEnd=true&amp;loop=true&amp;poster=_images/video/black.jpg&amp;src=black.m4v" allowFullScreen="true" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer_en">
+          </object>
+        </video>
+      </div>
+      <div class="wrapper">
+        <div class="layout home">
+          <div class="main">
+            <section class="grid">
+              <div class="slidesbox">
+                <s id="s1"></s>
+                <s id="s2"></s>
+                <s id="s3"></s>
+                <div class="slider">
+                  <div class="s1"><img src="_images/flammable-records-logo.png" alt="Lindsey Maddox logo" class="logo">
+                    <h1 class="tag"> <span class="full">Flammable Records</span><span class="full">&nbsp;</span>is a rap, hip hop, and R&B collective featuring: <a href="/" title="click for bio">Blaze Da Tracblaza</a>, <a href="/">Heather B</a>, 
+                      & <a href="/">Isis Aaliyah</a>.
+                    </h1><a href="mailto:newaddress@gmail.com" title="email Blaze" target="_blank" class="button">Inquiries</a>
+                  </div>
+                  <div class="s2"><img src="_images/blaze-look-down.png" alt="image of Lindsey Maddox" class="woo">
+                    <h2 class="testie">&ldquo;Blaze is one of those rare talents who can write, produce, manage <span>and </span>perform... fantastically.&rdquo;</h2>
+                    <p class="author">&mdash;Nicholas 'Rice' Daniels, Artist Representative, AGD</p><a href="_includes/testimonials" title="Blaze Da Tracblaza testimonials" target="_blank" class="button fancybox">View Testimonials</a>
+                  </div>
+                  <div class="s3"><img src="_images/blaze-itunes.jpg" alt="small Lindsey Maddox logo" class="legit">
+                    <h3 class="folio">Over 15 years of experience and an impressive catalog to back it up... </h3>
+                    <p class="proof">Blaze delivers clean compositions resulting in intuitive and accessible client experiences. He has a knack for fusing his natural artistic abilities with his great ear for production, creating original content and imaginative tracks.</p><a href="#hideshow" class="button fancybox">View Videos</a>
+                    <div id="hideshow">
+                      <video property="video" autoplay="autoplay" title="money" loop="loop" onended="var v=this;setTimeout(function(){v.play()},300)">
+                        <source src="video/blaze-money.files/html5video/blaze-money.m4v" type="video/mp4">
+                        <source src="video/blaze-money.files/html5video/blaze-money.webm" type="video/webm">
+                        <source src="video/blaze-money.files/html5video/blaze-money.mp4">
+                        <object type="application/x-shockwave-flash" data="video/blaze-money.files/html5video/blaze-money/flashfox.swf" width="3840" height="2160" style="position:relative;">|
+                          <param name="movie" value="video/blaze-money.files/html5video/blaze-money/flashfox.swf">
+                          <param name="allowFullScreen" value="true">
+                          <param name="flashVars" value="autoplay=true&amp;controls=false&amp;fullScreenEnabled=false&amp;posterOnEnd=true&amp;loop=true&amp;poster=video/blaze-money.files/html5video/blaze-money.jpg">
+                          <embed src="/video/blaze-money.files/html5video/blaze-money/flashfox.swf" width="3840" height="2160" style="position:relative;" flashVars="autoplay=true&amp;controls=false&amp;fullScreenEnabled=false&amp;posterOnEnd=true&amp;loop=true&amp;poster=video/blaze-money.files/html5video/blaze-money.jpg&amp;src=video/blaze-money.files/html5video/blaze-money.m4v" allowFullScreen="true" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer_en">
+                        </object>
+                      </video>
+                    </div>
+                    <div class="boxes">
+                      <h4 class="type">Stream</h4>
+                      <div class="flexslider carousel">       
+                        <div class="slides"><a href="#cirrus" class="box icon-amazon fancybox"><img id="cirrus" src="_images/cirrus.jpg"></a><a href="#symphony" class="box fancybox"><img src="_images/box-symphony.jpg"><img id="symphony" src="_images/symphony.jpg"></a><a href="#travis" class="box fancybox"><img src="_images/box-travismeadows.jpg"><img id="travis" src="_images/travismeadows.jpg"></a><a href="#aidswalk" class="box fancybox"><img src="_images/box-aidswalk.jpg"><img id="aidswalk" src="_images/aidswalk.jpg"></a><a href="#kitty" class="box fancybox"><img src="_images/box-kitty.jpg"><img id="kitty" src="_images/kitty.jpg"></a><a href="#fasterfitness" class="box fancybox"><img src="_images/box-fasterfitness.jpg"><img id="fasterfitness" src="_images/fasterfitness.jpg"></a><a href="#tuba" class="box fancybox"><img src="_images/box-tuba.jpg"><img id="tuba" src="_images/tuba.jpg"></a><a href="#skulls" class="box fancybox"><img src="_images/box-skulls.jpg"><img id="skulls" src="_images/skulls.jpg"></a><a href="#petrelli" class="box fancybox"><img src="_images/box-petrelli.jpg"><img id="petrelli" src="_images/petrelli.jpg"></a><a href="#rsg" class="box fancybox"><img src="_images/box-rsg.jpg"><img id="rsg" src="_images/rsg.jpg"></a><a href="#oceano" class="box fancybox"><img src="_images/box-oceano.jpg"><img id="oceano" src="_images/oceano.jpg"></a><a href="#kenricks" class="box fancybox"><img src="_images/box-kenricks.jpg"><img id="kenricks" src="_images/kenricks.jpg"></a><a class="flex-next icon-arrow"></a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="scroll-indicatory"><a href="#s1" class="dot"></a><a href="#s2" class="dot"></a><a href="#s3" class="dot"></a></div>
+              </div>
+            </section>
+          </div>
+          <aside class="sidebar">
+            <aside class="sidebar">
+              <div class="nav-pane slide-out home">
+                <div class="nav-items">
+                  <div class="listone"><span class="list-title">Flammable Records</span></div>
+                  <div class="listthree">
+                    <input type="checkbox" id="listthree" class="droppers"><a class="icon-contact"><span class="list-item">Connect With<span>Angry Eagle</span></span>
+                      <label for="listthree">
+                        <div class="dropdown"><span class="bar"></span><span class="bar"></span></div>
+                      </label></a><a href="/sportfishing.html" class="sub"><span class="list-item">Twitter</span></a><a href="/recreation.html" class="sub"><span class="list-item">Instagram</span></a><a href="/_includes/overlays/itinerary.html" class="sub fancybox fancybox.iframe"><span class="list-item">Facebook</span></a><a href="/travel.html" class="sub"><span class="list-item">Email</span></a>
+                    <div class="sub phones"><a href="tel:1615XXXXXXX"><span>(615) XXX-XXXX</span></a><a href="/_includes/overlays/map.html" class="fancybox fancybox.iframe"><span class="map">Nashville,d TN<span>View Map</span></span></a></div>
+                  </div>
+                </div>
+                <div class="copyline">
+                  <p>&copy;2018 Flammable Records &#9702; Nashville, TN, USA</p>
+                </div>
+              </div>
+              <div class="toggle-nav"><span class="m">M</span><span class="e"><span class="bar"></span><span class="bar"></span><span class="bar"></span></span><span class="n">N</span><span class="u">U</span></div>
+            </aside>
+          </aside>
+        </div>
+      </div>
+    </body>
+  </head>
+</html>

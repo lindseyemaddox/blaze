@@ -1,0 +1,58 @@
+
+button(w)
+  background-color: $orange
+  border: 1px solid $orange
+  color: $white
+  display: block
+  font-size: 13px
+  letter-spacing: 2px
+  margin-top: 15px
+  max-width: 260px
+  outline: 0
+  padding: 1.2em 0
+  primary-font($bold)
+  text-align: center
+  text-decoration: none
+  text-transform: uppercase
+  transition: all ease 400ms
+  width: w
+
+  &:after
+    content: '\e902'
+    font-family: 'blaze'
+    font-size: 14px
+    padding-left: 10px
+    vertical-align: bottom
+
+  &:hover
+    background-color: transparent
+    border: 1px solid $white
+    cursor: pointer
+
+
+line-top()
+  // border: 2px solid $white
+  border-bottom: none
+  border-left: none
+  border-right: none
+  float: right
+  margin: 30vh 0 45px
+  width: 49%
+
+line-bottom()
+  // border: 2px solid $white
+  border-left: none
+  border-right: none
+  border-top: none
+  float: right
+  margin: 45px 0 0
+  width: 49%
+
+lines()
+  &:before
+    line-top()
+    content: ''
+  &:after
+    line-bottom()
+    clear: right
+    content: ''

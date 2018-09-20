@@ -1,0 +1,259 @@
+
+.slidesbox
+  height: 100% /* Or set a fixed height */
+  overflow: hidden
+  position: relative
+
+.slider
+  color: $white
+  font-size: 0
+  height: 100%
+  transition: .8s
+  white-space: nowrap
+
+  .button
+    button(300px)
+
+  & > *
+    background: none 50% no-repeat
+    background-size: cover
+    display: inline-block
+    font-size: 1rem
+    height: 100%
+    vertical-align: top
+    white-space: normal
+    width: 100%
+
+#s1:target ~ .slider
+  transform: translateX(0%)
+
+#s2:target ~ .slider
+  transform: translateX(-100%)
+
+#s3:target ~ .slider
+  transform: translateX(-200%)
+
+.logo
+  bottom: 71px
+  left: -24px
+  position: absolute
+  width: 60%
+
+.tag
+  float: right
+  margin-left: 350px
+  padding-bottom: 11px
+
+.snipe
+  width: 180px
+
+.s1
+  lines()
+  margin-top: 32px
+  padding-left: 281px
+
+  .tag
+    font-size: 1.75em
+    line-height: 1.28em
+    primary-font($light)
+    text-transform: uppercase
+
+    span:first-child
+      primary-font($bold)
+
+    a
+      color: $orange
+      text-decoration: none
+
+      &:hover
+        color: $white
+        transition: color 400ms ease
+
+  .button
+    float: left
+    margin-left: 49%
+
+.s2
+  padding: 170px 493px 0 0
+
+  &:before
+    margin-top: 31vh
+
+  .testie
+    font-size: 1.5em
+    letter-spacing: 1px
+    line-height: 1.2em
+    margin: 5em 1vw 0
+    padding-bottom: 30px
+    primary-font($bold)
+
+    span
+      font-style: italic
+      text-transform: uppercase
+
+  .author
+    letter-spacing: 2px
+    line-height: 1.8em
+    margin: 0 1vw
+    primary-font($light)
+    text-align: right
+
+  .woo
+    bottom: 0
+    position: absolute
+    right: -100%
+    width: 44%
+
+  .button
+    float: right
+    margin: 80px 12% 0 0
+
+.s3
+  padding: 4vh 0 0
+  position: relative
+
+  &:before
+    margin-top: 12vh
+
+  .snipe
+    left: 1vw
+    margin-left: 7.5vw
+    position: absolute
+    top: 23vh
+    width: 27.5px
+
+  .legit
+    float: right
+    padding-left: 20px
+    width: 58%
+
+  .folio
+    font-size: 1.65em
+    letter-spacing: 1.1px
+    margin: 104px 1vw 9px 0
+    primary-font($regular)
+    line-height: 1.3em
+
+  .proof
+    font-size: .875em
+    letter-spacing: 1px
+    primary-font($light)
+
+  .button
+    float: left
+    margin: 40px 1vw 0 0
+
+  .boxes
+    height: 100px
+    position: absolute
+    right: 1.5vw
+    top: 68vh
+    width: 50.5%
+
+    &.bottom
+      top: 70vh
+
+    .carousel
+
+      li
+        margin-right: 0
+
+      .flex-direction-nav, &:hover .flex-direction-nav
+        .flex-prev, .flex-next
+          opacity: 1
+
+    .flex-direction-nav a
+      color: transparent
+      text-shadow: none
+
+      &:after
+        color: $white
+        font-family: 'blaze'
+        font-size: 26px
+        position: absolute
+        right: 0
+        top: 0
+        transition: color 800ms ease
+        vertical-align: middle
+
+      &:before
+        color: $white
+        font-family: 'blaze'
+        font-size: 26px
+        position: absolute
+        right: 0
+        top: 0
+        transition: color 800ms ease
+        vertical-align: middle
+
+    .flex-direction-nav a.flex-next::before
+      content: "\e902"
+
+    .flex-direction-nav a.flex-prev::before
+      content: "\e902"
+      transform: rotate(180deg)
+
+    .flexslider .flex-direction-nav .flex-next,
+    .flexslider:hover .flex-direction-nav .flex-next
+      right: -35px
+
+    .flexslider .flex-direction-nav .flex-prev,
+    .flexslider:hover .flex-direction-nav .flex-prev
+      left: -50px
+
+  .type
+    font-size: 1.2em
+    letter-spacing: 3px
+    position: absolute
+    primary-font($light)
+    line-height: 100px
+    right: 560px
+    text-align: right
+    text-transform: uppercase
+    top: 5px
+
+  .box
+    display: inline-block
+    width: 100px
+
+    &[class^="icon-"], &[class*=" icon-"]
+      filter: grayscale(100%)
+      opacity: .5
+      transition: all 900ms ease
+      width: 100%
+
+      &:hover
+        filter: none
+        opacity: 1
+
+.flexslider
+  background: transparent
+  border: 0
+
+.fancybox-toolbar
+  opacity: 1
+  right: 21px
+  top: 28px
+  visibility: visible
+
+.fancybox-button--fullscreen,
+.fancybox-button--share
+  display: none
+
+.fancybox-image
+  bottom: 40px
+
+#travis, #tuba, #symphony, #aidswalk, #people, #rsg, #petrelli, #sounds, #oceano, #martha, #kenricks, #kitty, #fasterfitness, #skulls, #inquicker, #angry, #coffeelunch, #bkon, #cirrus, #precision, #tsu, #connico, #sef, #inquicker, #slideshow
+  display: none
+  max-height: 100%
+  max-width: 100%
+
+#hideshow
+  display: none
+
+  .fancybox
+    height: 70vh
+    width: 80vw
+
+    img
+      width: 100%
