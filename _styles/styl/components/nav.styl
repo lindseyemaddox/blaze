@@ -41,7 +41,11 @@ nav-list-view()
     height: 20px
 
     p
-      primary-font($regular)
+      color: $white
+      font-size: .7em
+      padding-right: 65px
+      primary-font($light)
+      text-align: right
 
   .nav-items
     margin-left: 10px
@@ -54,19 +58,22 @@ nav-list-view()
     .list-title
       color: $white
       display: block
-      font-size: 1.5em
-      padding: 0 0 30px 13px
+      font-size: 2.5em
+      padding: 0 60px 50px 0
       primary-font($light)
+      line-height: 1.1em
+      text-align: right
+      text-transform: uppercase
 
     a[class^="icon-"]
       display: block
-      margin-bottom: 15px
 
     a
       cursor: pointer
-      text-align: left
-      width: 80%
+      text-align: right
+      width: 100%
       line-height: 0.1em
+      padding-right: 50px
       text-decoration: none
 
       span
@@ -81,18 +88,16 @@ nav-list-view()
           vertical-align: middle
           line-height: 1.4em
 
-      &:hover span
-        color: $green
-
       .list-item
         opacity: 1
-        display: inline
+        display: block
+        float: right
         margin-left: 0
         position: inherit
         height: inherit
         line-height: 1em
         background-color: transparent
-        padding: inherit
+        padding: 0 60px 0 0
 
         span
           padding-left: 51px
@@ -115,7 +120,6 @@ nav-list-view()
 
         &.form
           height: auto//needs a px value
-          padding-left: 70px
 
         &.socials
           height: 60px
@@ -133,7 +137,7 @@ nav-list-view()
   letter-spacing: 4px
 
   .sub.phones
-    margin-top: 20px
+    margin-top: 6vh
     padding-left: 50px
 
     a
@@ -141,7 +145,7 @@ nav-list-view()
       height: auto
       text-decoration: none
       color: $black
-      padding-bottom: 20px
+      padding: 0 65px 20px 0
       text-transform: uppercase
       primary-font($light)
 
@@ -178,11 +182,16 @@ nav-list-view()
 
     &.sub
       font-size: 2em
+      font-weight: 300
       margin-left: 0.65em
       cursor: pointer
+      transition: font-weight 400ms ease
 
-      span
-        padding-left: .75em
+      &:hover .list-item
+        font-weight: 700
+
+      span.list-item
+        padding-right: 80px
         font-size: .475em
 
 [class^="list"]
@@ -194,14 +203,14 @@ nav-list-view()
     top: -99999px
 
   label
-    position: absolute
     cursor: pointer
-    z-index: 1
-    width: 40px
-    right: 15px
-    top: 0
-    padding-left: 0
     height: 40px
+    padding-right: 10px
+    position: absolute
+    right: 62px
+    top: 0
+    width: 40px
+    z-index: 1
 
 .nav-pane
   transition: 250ms
@@ -218,9 +227,9 @@ nav-list-view()
 
     .nav-items a
 
-      label:hover .dropdown span.bar
-        background: $orange
-
+      // label:hover .dropdown span.bar
+      //   background: $orange
+      //
       &:hover:before
         color: $orange
 
@@ -240,8 +249,8 @@ nav-list-view()
     transform: translateX(-286px)
     transition: 250ms
     width: 360px
-    background-color: rgba($orange, .2)
-    box-shadow: 0px 3px 10px rgba($black, .2)
+    background-color: rgba($black, .95)
+    box-shadow: 0px 3px 10px rgba($black, .3)
     nav-list-view()
 
 .nav-pane.open .nav-items .listthree
@@ -319,10 +328,10 @@ nav-list-view()
     span.m, span.n, span.u
       opacity: 1
       transition: 250ms
-      color: $orange
+      color: $white
     span.e span.bar
-      background-color: $orange
-      border-bottom-color: $orange
+      background-color: $white
+      border-bottom-color: $white
 
 input:checked ~ [class^="icon"]
 
@@ -343,7 +352,7 @@ input:checked ~ [class^="icon"]
   span.bar
     transition: 250ms
     display: inline-block
-    background: $orange
+    background: $white
     height: 20px
     width: 1px
 
@@ -358,3 +367,11 @@ input:checked ~ [class^="icon"]
     transform: rotate(40deg)
     transform-origin: center center
     margin: 0px 0px 21.5px -2px
+
+  &:hover
+
+    span.bar
+      width: 2px
+
+      &:nth-child(1)
+        margin-right: 13px

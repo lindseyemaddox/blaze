@@ -40,17 +40,6 @@
 		"oAP": "\/_fonts\/blaze.woff",
 		"oF": 0
 		},
-	"\/_images\/aidswalk.jpg": {
-		"ft": 16384,
-		"iS": 523170,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/aidswalk.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
 	"\/_images\/album-csp.jpg": {
 		"ft": 16384,
 		"iS": 202155,
@@ -71,28 +60,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/_images\/angryeagle.jpg": {
-		"ft": 16384,
-		"iS": 3021786,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/angryeagle.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/bkon.jpg": {
-		"ft": 16384,
-		"iS": 1321129,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/bkon.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
 		},
 	"\/_images\/blank.gif": {
 		"ft": 4194304,
@@ -124,396 +91,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/_images\/box-aidswalk.jpg": {
-		"ft": 16384,
-		"iS": 10248,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-aidswalk.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-angry-logo.jpg": {
-		"ft": 16384,
-		"iS": 14765,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-angry-logo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-angry-web.jpg": {
-		"ft": 16384,
-		"iS": 10520,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-angry-web.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-bkon.jpg": {
-		"ft": 16384,
-		"iS": 8842,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-bkon.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-cirrus.jpg": {
-		"ft": 16384,
-		"iS": 23179,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-cirrus.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-coffeelunch.jpg": {
-		"ft": 16384,
-		"iS": 16842,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-coffeelunch.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-connico.jpg": {
-		"ft": 16384,
-		"iS": 12565,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-connico.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-dykes.jpg": {
-		"ft": 16384,
-		"iS": 12273,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-dykes.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-fasterfitness.jpg": {
-		"ft": 16384,
-		"iS": 11196,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-fasterfitness.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-inquicker.jpg": {
-		"ft": 16384,
-		"iS": 15117,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-inquicker.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-kenricks.jpg": {
-		"ft": 16384,
-		"iS": 11160,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-kenricks.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-kitty.jpg": {
-		"ft": 16384,
-		"iS": 12917,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-kitty.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-longhaul.jpg": {
-		"ft": 16384,
-		"iS": 9074,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-longhaul.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-martha.jpg": {
-		"ft": 16384,
-		"iS": 13741,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-martha.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-neighborhoodhealth.jpg": {
-		"ft": 16384,
-		"iS": 8641,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-neighborhoodhealth.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-oceano.jpg": {
-		"ft": 16384,
-		"iS": 19591,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-oceano.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-petrelli.jpg": {
-		"ft": 16384,
-		"iS": 18460,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-petrelli.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-precision.jpg": {
-		"ft": 16384,
-		"iS": 16079,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-precision.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-rsg.jpg": {
-		"ft": 16384,
-		"iS": 6686,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-rsg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-sef.jpg": {
-		"ft": 16384,
-		"iS": 7950,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-sef.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-simply-people.jpg": {
-		"ft": 16384,
-		"iS": 9035,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-simply-people.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-skulls.jpg": {
-		"ft": 16384,
-		"iS": 13298,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-skulls.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-sounds.jpg": {
-		"ft": 16384,
-		"iS": 13828,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-sounds.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-specialolympics.jpg": {
-		"ft": 16384,
-		"iS": 13430,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-specialolympics.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-symphony.jpg": {
-		"ft": 16384,
-		"iS": 16996,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-symphony.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-tnrmt.jpg": {
-		"ft": 16384,
-		"iS": 9951,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-tnrmt.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-travismeadows.jpg": {
-		"ft": 16384,
-		"iS": 10382,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-travismeadows.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-tsu.jpg": {
-		"ft": 16384,
-		"iS": 25667,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-tsu.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-tuba.jpg": {
-		"ft": 16384,
-		"iS": 13845,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-tuba.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/box-watkins.jpg": {
-		"ft": 16384,
-		"iS": 15957,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/box-watkins.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
 	"\/_images\/burned.png": {
 		"ft": 32768,
 		"iS": 268646,
 		"oA": 0,
 		"oAP": "\/_images\/burned.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/cirrus.jpg": {
-		"ft": 16384,
-		"iS": 1619854,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/cirrus.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/coffeelunch.jpg": {
-		"ft": 16384,
-		"iS": 2297609,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/coffeelunch.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/connico.jpg": {
-		"ft": 16384,
-		"iS": 889831,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/connico.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/cream-girl.png": {
-		"ft": 32768,
-		"iS": 9469,
-		"oA": 0,
-		"oAP": "\/_images\/cream-girl.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/cream-legs.png": {
-		"ft": 32768,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/_images\/cream-legs.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -546,6 +128,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/_images\/email.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_images\/facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/facebook.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -643,16 +235,25 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/_images\/inquicker.jpg": {
-		"ft": 16384,
-		"iS": 951128,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/inquicker.jpg",
+	"\/_images\/google.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/google.svg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_images\/instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_images\/itunes.svg": {
 		"ft": 2097152,
@@ -664,103 +265,15 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/_images\/kenricks.jpg": {
-		"ft": 16384,
-		"iS": 1751688,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/kenricks.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/kitty.jpg": {
-		"ft": 16384,
-		"iS": 2881853,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/kitty.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/legitsey.jpg": {
-		"ft": 16384,
-		"iS": 45873,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/legitsey.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/lindsey-maddox.png": {
-		"ft": 32768,
-		"iS": 1010415,
-		"oA": 0,
-		"oAP": "\/_images\/lindsey-maddox.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/longhaul.jpg": {
-		"ft": 16384,
-		"iS": 476192,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/longhaul.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/martha.jpg": {
-		"ft": 16384,
-		"iS": 1282493,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/martha.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/neighborhoodhealth.jpg": {
-		"ft": 16384,
-		"iS": 1359785,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/neighborhoodhealth.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/oceano.jpg": {
-		"ft": 16384,
-		"iS": 1502470,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/oceano.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
 	"\/_images\/og-image.jpg": {
 		"ft": 16384,
-		"iS": 7710,
+		"iS": 427400,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/og-image.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_images\/pandora.svg": {
@@ -773,104 +286,25 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/_images\/petrelli.jpg": {
-		"ft": 16384,
-		"iS": 867458,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/petrelli.jpg",
+	"\/_images\/soundcloud.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/soundcloud.svg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
-	"\/_images\/precision.jpg": {
-		"ft": 16384,
-		"iS": 932843,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/precision.jpg",
+	"\/_images\/spotify.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/spotify.svg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/rsg.jpg": {
-		"ft": 16384,
-		"iS": 1644541,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/rsg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/sef.jpg": {
-		"ft": 16384,
-		"iS": 835128,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/sef.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/simply-people.jpg": {
-		"ft": 16384,
-		"iS": 339842,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/simply-people.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/skulls.jpg": {
-		"ft": 16384,
-		"iS": 1558084,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/skulls.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/sounds.jpg": {
-		"ft": 16384,
-		"iS": 1414056,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/sounds.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/specialolympics.jpg": {
-		"ft": 16384,
-		"iS": 1444406,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/specialolympics.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/symphony.jpg": {
-		"ft": 16384,
-		"iS": 1669494,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/symphony.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_images\/tidal.svg": {
 		"ft": 2097152,
@@ -882,37 +316,15 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/_images\/travismeadows.jpg": {
+	"\/_images\/twitter-card.jpg": {
 		"ft": 16384,
-		"iS": 571773,
+		"iS": 48119,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_images\/travismeadows.jpg",
+		"oAP": "\/_images\/twitter-card.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/tsu.jpg": {
-		"ft": 16384,
-		"iS": 1508262,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/tsu.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_images\/tuba.jpg": {
-		"ft": 16384,
-		"iS": 1227835,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/tuba.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_images\/twitter-cover.jpg": {
@@ -926,16 +338,25 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/_images\/watkins.jpg": {
-		"ft": 16384,
-		"iS": 2659330,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/watkins.jpg",
+	"\/_images\/twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/twitter.svg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_images\/youtube.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/youtube.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_includes\/head.jade": {
 		"cB": 0,
@@ -1131,13 +552,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"\/_pdf\/lm-resume.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_pdf\/lm-resume.pdf",
-		"oF": 0
 		},
 	"\/_scripts\/flexslider-min.js": {
 		"ft": 64,
@@ -1504,223 +918,36 @@
 		"oS": 0,
 		"rrU": 0
 		},
-	"\/android-chrome-144x144.png": {
-		"ft": 32768,
-		"iS": 2069,
-		"oA": 0,
-		"oAP": "\/android-chrome-144x144.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 2561,
+		"iS": 5171,
 		"oA": 0,
 		"oAP": "\/android-chrome-192x192.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/android-chrome-256x256.png": {
+	"\/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 3557,
+		"iS": 13011,
 		"oA": 0,
-		"oAP": "\/android-chrome-256x256.png",
+		"oAP": "\/android-chrome-512x512.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/android-chrome-36x36.png": {
-		"ft": 32768,
-		"iS": 1160,
-		"oA": 0,
-		"oAP": "\/android-chrome-36x36.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/android-chrome-384x384.png": {
-		"ft": 32768,
-		"iS": 5569,
-		"oA": 0,
-		"oAP": "\/android-chrome-384x384.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/android-chrome-48x48.png": {
-		"ft": 32768,
-		"iS": 1250,
-		"oA": 0,
-		"oAP": "\/android-chrome-48x48.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/android-chrome-72x72.png": {
-		"ft": 32768,
-		"iS": 1425,
-		"oA": 0,
-		"oAP": "\/android-chrome-72x72.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/android-chrome-96x96.png": {
-		"ft": 32768,
-		"iS": 1621,
-		"oA": 0,
-		"oAP": "\/android-chrome-96x96.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-120x120-precomposed.png": {
-		"ft": 32768,
-		"iS": 2198,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-120x120-precomposed.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-120x120.png": {
-		"ft": 32768,
-		"iS": 1905,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-120x120.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-152x152-precomposed.png": {
-		"ft": 32768,
-		"iS": 2630,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-152x152-precomposed.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-152x152.png": {
-		"ft": 32768,
-		"iS": 2279,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-152x152.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-180x180-precomposed.png": {
-		"ft": 32768,
-		"iS": 3039,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-180x180-precomposed.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-180x180.png": {
-		"ft": 32768,
-		"iS": 2586,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-180x180.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-60x60-precomposed.png": {
-		"ft": 32768,
-		"iS": 1539,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-60x60-precomposed.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-60x60.png": {
-		"ft": 32768,
-		"iS": 1392,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-60x60.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-76x76-precomposed.png": {
-		"ft": 32768,
-		"iS": 1674,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-76x76-precomposed.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-76x76.png": {
-		"ft": 32768,
-		"iS": 1537,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-76x76.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 3039,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 2586,
+		"iS": 3331,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1740,23 +967,23 @@
 		},
 	"\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 1061,
+		"iS": 517,
 		"oA": 0,
 		"oAP": "\/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 1127,
+		"iS": 849,
 		"oA": 0,
 		"oAP": "\/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1765,13 +992,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/favicon.ico",
-		"oF": 0
-		},
-	"\/html_code.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/html_code.html",
 		"oF": 0
 		},
 	"\/index.html": {
@@ -1790,34 +1010,60 @@
 		"oF": 1,
 		"oS": 0
 		},
+	"\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 2627,
+		"oA": 0,
+		"oAP": "\/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 1110,
+		"iS": 2045,
 		"oA": 0,
 		"oAP": "\/mstile-150x150.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 1533,
+		"oA": 0,
+		"oAP": "\/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/mstile-310x310.png": {
 		"ft": 32768,
-		"iS": 2969,
+		"iS": 3589,
 		"oA": 0,
 		"oAP": "\/mstile-310x310.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/README.html": {
-		"cB": 0,
-		"ft": 8192,
+	"\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 1674,
 		"oA": 0,
-		"oAP": "\/README.html",
-		"oF": 0
+		"oAP": "\/mstile-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/README.md": {
 		"cB": 0,
@@ -1863,7 +1109,7 @@
 	"creationDate": 554969155,
 	"displayValue": "Blaze",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/apple-touch-icon-120x120.png",
+	"iconImageName": "\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 559169774
 	},
