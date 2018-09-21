@@ -9,13 +9,6 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/.gitignore",
-		"oF": 0
-		},
 	"\/_fonts\/blaze.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -55,7 +48,7 @@
 		"oAP": "\/_images\/aidswalk.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/album-csp.jpg": {
@@ -66,8 +59,18 @@
 		"oAP": "\/_images\/album-csp.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
+		},
+	"\/_images\/amazon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/amazon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_images\/angryeagle.jpg": {
 		"ft": 16384,
@@ -77,7 +80,7 @@
 		"oAP": "\/_images\/angryeagle.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/bkon.jpg": {
@@ -88,7 +91,7 @@
 		"oAP": "\/_images\/bkon.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/blank.gif": {
@@ -97,7 +100,7 @@
 		"oA": 0,
 		"oAP": "\/_images\/blank.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_images\/blaze-itunes.jpg": {
 		"ft": 16384,
@@ -107,7 +110,7 @@
 		"oAP": "\/_images\/blaze-itunes.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/blaze-look-down.png": {
@@ -129,7 +132,7 @@
 		"oAP": "\/_images\/box-aidswalk.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-angry-logo.jpg": {
@@ -140,7 +143,7 @@
 		"oAP": "\/_images\/box-angry-logo.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-angry-web.jpg": {
@@ -151,7 +154,7 @@
 		"oAP": "\/_images\/box-angry-web.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-bkon.jpg": {
@@ -162,7 +165,7 @@
 		"oAP": "\/_images\/box-bkon.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-cirrus.jpg": {
@@ -173,7 +176,7 @@
 		"oAP": "\/_images\/box-cirrus.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-coffeelunch.jpg": {
@@ -184,7 +187,7 @@
 		"oAP": "\/_images\/box-coffeelunch.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-connico.jpg": {
@@ -195,7 +198,7 @@
 		"oAP": "\/_images\/box-connico.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-dykes.jpg": {
@@ -206,7 +209,7 @@
 		"oAP": "\/_images\/box-dykes.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-fasterfitness.jpg": {
@@ -217,7 +220,7 @@
 		"oAP": "\/_images\/box-fasterfitness.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-inquicker.jpg": {
@@ -228,7 +231,7 @@
 		"oAP": "\/_images\/box-inquicker.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-kenricks.jpg": {
@@ -239,7 +242,7 @@
 		"oAP": "\/_images\/box-kenricks.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-kitty.jpg": {
@@ -250,7 +253,7 @@
 		"oAP": "\/_images\/box-kitty.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-longhaul.jpg": {
@@ -261,7 +264,7 @@
 		"oAP": "\/_images\/box-longhaul.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-martha.jpg": {
@@ -272,7 +275,7 @@
 		"oAP": "\/_images\/box-martha.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-neighborhoodhealth.jpg": {
@@ -283,7 +286,7 @@
 		"oAP": "\/_images\/box-neighborhoodhealth.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-oceano.jpg": {
@@ -294,7 +297,7 @@
 		"oAP": "\/_images\/box-oceano.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-petrelli.jpg": {
@@ -305,7 +308,7 @@
 		"oAP": "\/_images\/box-petrelli.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-precision.jpg": {
@@ -316,7 +319,7 @@
 		"oAP": "\/_images\/box-precision.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-rsg.jpg": {
@@ -327,7 +330,7 @@
 		"oAP": "\/_images\/box-rsg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-sef.jpg": {
@@ -338,7 +341,7 @@
 		"oAP": "\/_images\/box-sef.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-simply-people.jpg": {
@@ -349,7 +352,7 @@
 		"oAP": "\/_images\/box-simply-people.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-skulls.jpg": {
@@ -360,7 +363,7 @@
 		"oAP": "\/_images\/box-skulls.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-sounds.jpg": {
@@ -371,7 +374,7 @@
 		"oAP": "\/_images\/box-sounds.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-specialolympics.jpg": {
@@ -382,7 +385,7 @@
 		"oAP": "\/_images\/box-specialolympics.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-symphony.jpg": {
@@ -393,7 +396,7 @@
 		"oAP": "\/_images\/box-symphony.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-tnrmt.jpg": {
@@ -404,7 +407,7 @@
 		"oAP": "\/_images\/box-tnrmt.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-travismeadows.jpg": {
@@ -415,7 +418,7 @@
 		"oAP": "\/_images\/box-travismeadows.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-tsu.jpg": {
@@ -426,7 +429,7 @@
 		"oAP": "\/_images\/box-tsu.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-tuba.jpg": {
@@ -437,7 +440,7 @@
 		"oAP": "\/_images\/box-tuba.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/box-watkins.jpg": {
@@ -448,7 +451,7 @@
 		"oAP": "\/_images\/box-watkins.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/burned.png": {
@@ -457,8 +460,8 @@
 		"oA": 0,
 		"oAP": "\/_images\/burned.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -470,7 +473,7 @@
 		"oAP": "\/_images\/cirrus.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/coffeelunch.jpg": {
@@ -481,7 +484,7 @@
 		"oAP": "\/_images\/coffeelunch.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/connico.jpg": {
@@ -492,7 +495,7 @@
 		"oAP": "\/_images\/connico.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/cream-girl.png": {
@@ -501,8 +504,8 @@
 		"oA": 0,
 		"oAP": "\/_images\/cream-girl.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -517,6 +520,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_images\/distrokid.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/distrokid.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/_images\/dykes.jpg": {
 		"ft": 16384,
 		"iS": 929169,
@@ -525,14 +538,14 @@
 		"oAP": "\/_images\/dykes.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/_images\/facebook.svg": {
+	"\/_images\/email.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/_images\/facebook.svg",
+		"oAP": "\/_images\/email.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -544,7 +557,7 @@
 		"oA": 0,
 		"oAP": "\/_images\/fancybox_loading.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_images\/fancybox_loading@2x.gif": {
 		"ft": 4194304,
@@ -552,7 +565,7 @@
 		"oA": 0,
 		"oAP": "\/_images\/fancybox_loading@2x.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_images\/fancybox_overlay.png": {
 		"ft": 32768,
@@ -560,8 +573,8 @@
 		"oA": 0,
 		"oAP": "\/_images\/fancybox_overlay.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -571,8 +584,8 @@
 		"oA": 0,
 		"oAP": "\/_images\/fancybox_sprite.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -582,8 +595,8 @@
 		"oA": 0,
 		"oAP": "\/_images\/fancybox_sprite@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -595,7 +608,7 @@
 		"oAP": "\/_images\/fasterfitness.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/flammable-records-logo.jpg": {
@@ -620,11 +633,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/_images\/google.svg": {
+	"\/_images\/flickr.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/_images\/google.svg",
+		"oAP": "\/_images\/flickr.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -638,14 +651,14 @@
 		"oAP": "\/_images\/inquicker.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/_images\/instagram.svg": {
+	"\/_images\/itunes.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/_images\/instagram.svg",
+		"oAP": "\/_images\/itunes.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -659,7 +672,7 @@
 		"oAP": "\/_images\/kenricks.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/kitty.jpg": {
@@ -670,7 +683,7 @@
 		"oAP": "\/_images\/kitty.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/legitsey.jpg": {
@@ -681,7 +694,7 @@
 		"oAP": "\/_images\/legitsey.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/lindsey-maddox.png": {
@@ -690,8 +703,8 @@
 		"oA": 0,
 		"oAP": "\/_images\/lindsey-maddox.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -703,7 +716,7 @@
 		"oAP": "\/_images\/longhaul.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/martha.jpg": {
@@ -714,7 +727,7 @@
 		"oAP": "\/_images\/martha.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/neighborhoodhealth.jpg": {
@@ -725,7 +738,7 @@
 		"oAP": "\/_images\/neighborhoodhealth.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/oceano.jpg": {
@@ -736,7 +749,7 @@
 		"oAP": "\/_images\/oceano.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/og-image.jpg": {
@@ -747,8 +760,18 @@
 		"oAP": "\/_images\/og-image.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
+		},
+	"\/_images\/pandora.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/pandora.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_images\/petrelli.jpg": {
 		"ft": 16384,
@@ -758,7 +781,7 @@
 		"oAP": "\/_images\/petrelli.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/precision.jpg": {
@@ -769,7 +792,7 @@
 		"oAP": "\/_images\/precision.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/rsg.jpg": {
@@ -780,7 +803,7 @@
 		"oAP": "\/_images\/rsg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/sef.jpg": {
@@ -791,7 +814,7 @@
 		"oAP": "\/_images\/sef.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/simply-people.jpg": {
@@ -802,7 +825,7 @@
 		"oAP": "\/_images\/simply-people.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/skulls.jpg": {
@@ -813,18 +836,8 @@
 		"oAP": "\/_images\/skulls.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
-		},
-	"\/_images\/soundcloud.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_images\/soundcloud.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/_images\/sounds.jpg": {
 		"ft": 16384,
@@ -834,7 +847,7 @@
 		"oAP": "\/_images\/sounds.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/specialolympics.jpg": {
@@ -845,18 +858,8 @@
 		"oAP": "\/_images\/specialolympics.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
-		},
-	"\/_images\/spotify.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_images\/spotify.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/_images\/symphony.jpg": {
 		"ft": 16384,
@@ -866,8 +869,18 @@
 		"oAP": "\/_images\/symphony.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
+		},
+	"\/_images\/tidal.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_images\/tidal.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_images\/travismeadows.jpg": {
 		"ft": 16384,
@@ -877,7 +890,7 @@
 		"oAP": "\/_images\/travismeadows.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/tsu.jpg": {
@@ -888,7 +901,7 @@
 		"oAP": "\/_images\/tsu.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/tuba.jpg": {
@@ -899,7 +912,7 @@
 		"oAP": "\/_images\/tuba.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/twitter-cover.jpg": {
@@ -910,18 +923,8 @@
 		"oAP": "\/_images\/twitter-cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
-		},
-	"\/_images\/twitter.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_images\/twitter.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/_images\/watkins.jpg": {
 		"ft": 16384,
@@ -931,18 +934,8 @@
 		"oAP": "\/_images\/watkins.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
-		},
-	"\/_images\/youtube.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_images\/youtube.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/_includes\/head.jade": {
 		"cB": 0,
@@ -1018,7 +1011,7 @@
 		"oAP": "\/_includes\/video\/black.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_includes\/video\/black.m4v": {
@@ -1057,7 +1050,7 @@
 		"oAP": "\/_includes\/video\/blaze-money.files\/html5video\/blaze-money.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_includes\/video\/blaze-money.files\/html5video\/blaze-money.m4v": {
@@ -1087,10 +1080,20 @@
 		"oA": 0,
 		"oAP": "\/_includes\/video\/blaze-money.files\/html5video\/fullscreen.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/_includes\/video\/blaze-money.files\/html5video\/html5ext-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_includes\/video\/blaze-money.files\/html5video\/html5ext-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"\/_includes\/video\/blaze-money.files\/html5video\/html5ext.js": {
 		"ft": 64,
@@ -1109,6 +1112,16 @@
 		"oAP": "\/_includes\/video\/flashfox.swf",
 		"oF": 0
 		},
+	"\/_includes\/video\/html5ext-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_includes\/video\/html5ext-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/_includes\/video\/html5ext.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1126,12 +1139,32 @@
 		"oAP": "\/_pdf\/lm-resume.pdf",
 		"oF": 0
 		},
+	"\/_scripts\/flexslider-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_scripts\/flexslider-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/_scripts\/flexslider.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/_scripts\/flexslider-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/_scripts\/html5ext-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_scripts\/html5ext-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1146,12 +1179,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/_scripts\/main-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_scripts\/main-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/_scripts\/main.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/_scripts\/main-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/_scripts\/min\/flexslider-min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_scripts\/min\/flexslider-min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1166,12 +1219,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/_scripts\/min\/html5ext-min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_scripts\/min\/html5ext-min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/_scripts\/min\/html5ext-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/_scripts\/min\/html5ext-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/_scripts\/min\/main-min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_scripts\/min\/main-min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1437,8 +1510,8 @@
 		"oA": 0,
 		"oAP": "\/android-chrome-144x144.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1448,8 +1521,8 @@
 		"oA": 0,
 		"oAP": "\/android-chrome-192x192.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1459,8 +1532,8 @@
 		"oA": 0,
 		"oAP": "\/android-chrome-256x256.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1470,8 +1543,8 @@
 		"oA": 0,
 		"oAP": "\/android-chrome-36x36.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1481,8 +1554,8 @@
 		"oA": 0,
 		"oAP": "\/android-chrome-384x384.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1492,8 +1565,8 @@
 		"oA": 0,
 		"oAP": "\/android-chrome-48x48.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1503,8 +1576,8 @@
 		"oA": 0,
 		"oAP": "\/android-chrome-72x72.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1514,8 +1587,8 @@
 		"oA": 0,
 		"oAP": "\/android-chrome-96x96.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1525,8 +1598,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-120x120-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1536,8 +1609,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-120x120.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1547,8 +1620,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-152x152-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1558,8 +1631,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-152x152.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1569,8 +1642,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-180x180-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1580,8 +1653,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-180x180.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1591,8 +1664,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-60x60-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1602,8 +1675,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-60x60.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1613,8 +1686,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-76x76-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1624,8 +1697,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-76x76.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1635,8 +1708,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1646,8 +1719,8 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1658,14 +1731,21 @@
 		"oAP": "\/browserconfig.xml",
 		"oF": 0
 		},
+	"\/build\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
+		},
 	"\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 1061,
 		"oA": 0,
 		"oAP": "\/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1675,8 +1755,8 @@
 		"oA": 0,
 		"oAP": "\/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1716,8 +1796,8 @@
 		"oA": 0,
 		"oAP": "\/mstile-150x150.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1727,10 +1807,17 @@
 		"oA": 0,
 		"oAP": "\/mstile-310x310.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0
 		},
 	"\/README.md": {
 		"cB": 0,
@@ -1777,7 +1864,8 @@
 	"displayValue": "Blaze",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "\/apple-touch-icon-120x120.png",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 559169774
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

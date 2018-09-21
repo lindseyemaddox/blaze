@@ -80,16 +80,20 @@ $icon-youtube-path2 = "\e936"
   -webkit-font-smoothing antialiased
   -moz-osx-font-smoothing grayscale
 
-.icon-amazon .path1
-  &:before
-    content: $icon-amazon-path1
-    color rgb(224, 141, 45)
-.icon-amazon .path2
-  &:before
-    content: $icon-amazon-path2
-    margin-left -1em
-    color rgb(255, 255, 255)
-    
+icon-amazon()
+  .path1
+    &:before
+      content: $icon-amazon-path1
+      color rgb(224, 141, 45)
+  .path2
+    &:before
+      content: $icon-amazon-path2
+      margin-left -1em
+      color rgb(255, 255, 255)
+
+.amazon
+  icon-amazon()
+
 .icon-arrow
   &:before
     content: $icon-arrow

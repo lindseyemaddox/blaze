@@ -1,12 +1,13 @@
 
+
 #hideshow
-  video(property='video' autoplay='autoplay' title='money' loop='loop' onended='var v=this;setTimeout(function(){v.play()},300)')
-    source(src='video/blaze-money.files/html5video/blaze-money.m4v' type='video/mp4')
-    source(src='video/blaze-money.files/html5video/blaze-money.webm' type='video/webm')
-    source(src='video/blaze-money.files/html5video/blaze-money.mp4')
+  video(property='video' muted='true' autoplay='autoplay' title='All B\'s money' onended='var v=this;setTimeout(function(){v.play()},300)')
+    source(src='_includes/video/blaze-money.files/html5video/blaze-money.m4v' type='video/mp4')
+    source(src='_includes/video/blaze-money.files/html5video/blaze-money.webm' type='video/webm')
+    source(src='_includes/video/blaze-money.files/html5/video/blaze-money.mp4')
     
-    object(type='application/x-shockwave-flash' data='video/blaze-money.files/html5video/blaze-money/flashfox.swf' width='3840' height='2160' style='position:relative;') |
-      param(name='movie' value='video/blaze-money.files/html5video/blaze-money/flashfox.swf')
+    object(type='application/x-shockwave-flash' data='_includes/video/blaze-money.files/html5video/blaze-money/flashfox.swf' width='3840' height='2160' style='position:relative;') |
+      param(name='movie' value='_includes/video/blaze-money.files/html5video/flashfox.swf')
       param(name='allowFullScreen' value='true')
-      param(name='flashVars' value='autoplay=true&controls=false&fullScreenEnabled=false&posterOnEnd=true&loop=true&poster=video/blaze-money.files/html5video/blaze-money.jpg')
-      embed(src='/video/blaze-money.files/html5video/blaze-money/flashfox.swf' width='3840' height='2160' style='position:relative;' flashVars='autoplay=true&controls=false&fullScreenEnabled=false&posterOnEnd=true&loop=true&poster=video/blaze-money.files/html5video/blaze-money.jpg&src=video/blaze-money.files/html5video/blaze-money.m4v' allowFullScreen='true' wmode='transparent' type='application/x-shockwave-flash' pluginspage='http://www.adobe.com/go/getflashplayer_en')
+      param(name='flashVars' value='autoplay=false&controls=true&fullScreenEnabled=false&posterOnEnd=true&loop=false&poster=_includes/video/blaze-money.files/html5video/blaze-money.jpg')
+      embed(src='_includes/video/blaze-money.files/html5video/blaze-money/flashfox.swf' width='3840' height='2160' style='position:relative;' flashVars='autoplay=false&controls=true&fullScreenEnabled=false&posterOnEnd=true&loop=false&poster=_includes/video/blaze-money.files/html5video/blaze-money.jpg&src=_includes/video/blaze-money.files/html5video/blaze-money.m4v' allowFullScreen='true' wmode='transparent' type='application/x-shockwave-flash' pluginspage='http://www.adobe.com/go/getflashplayer_en')
