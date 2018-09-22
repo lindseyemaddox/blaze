@@ -148,7 +148,7 @@
     position: absolute
     right: 1.5vw
     top: 68vh
-    width: 50.5%
+    width: 75%
 
     &.bottom
       top: 70vh
@@ -207,24 +207,31 @@
     position: absolute
     primary-font($light)
     line-height: 100px
-    right: 560px
-    text-align: right
+    left: -221px
     text-transform: uppercase
-    top: 5px
+    top: 8px
+    white-space: nowrap
 
   .box
+    cursor: pointer
     display: inline-block
-    width: 100px
+    width: 40px
 
     img
       filter: grayscale(100%)
       opacity: .5
       transition: all 900ms ease
-      width: 100%
+      width: 70%
 
       &:hover
         filter: none
         opacity: 1
+
+.flex-next.icon-arrow
+  cursor: pointer
+  display: inline-block
+  padding-top: 50px
+  margin-left: 20px
 
 .flexslider
   background: transparent
