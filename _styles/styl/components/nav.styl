@@ -111,13 +111,6 @@ nav-list-view()
         &:last-child
           margin-bottom: 27px
 
-        &.phones
-          margin-bottom: 20px
-          height: auto
-
-          a
-            line-height: 1em
-
         &.form
           height: auto//needs a px value
 
@@ -128,6 +121,16 @@ nav-list-view()
         transition: 250ms
         transform: rotate(180deg)
 
+    .sub.phones
+      margin-bottom: 20px
+      height: auto
+
+      a
+        line-height: 1em
+
+        &:hover
+          font-weight: 500
+
   [class^="list"] label
     display: inline-block
 
@@ -137,8 +140,7 @@ nav-list-view()
   letter-spacing: 4px
 
   .sub.phones
-    margin-top: 6vh
-    padding-left: 50px
+    margin-top: 3vh
 
     a
       font-size: 0.88em

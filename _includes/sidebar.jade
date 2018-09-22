@@ -21,26 +21,27 @@ aside.sidebar
               span.bar
               span.bar
 
-        a.sub(href='/')
+        a.sub(href='https://www.twitter.com' target='_blank' title='Flammable Records on Twitter')
           span.list-item Twitter
 
-        a.sub(href='/recreation.html')
+        a.sub(href='https://www.instagram.com' target='_blank' title='Flammable Records on Instragram')
           span.list-item Instagram
 
-        a.sub.fancybox(class='fancybox.iframe' href='/_includes/overlays/itinerary.html')
+        a.sub(href='https://www.facebook.com' target='_blank' title='Flammable Records on Facebook')
           span.list-item Facebook
 
-        a.sub(href='/travel.html')
+        a.sub(href='mailto:inquiries@flammablerecords.whatever')
           span.list-item Email
 
-        .sub.phones
+      .sub.phones
+      
+        a(href='tel:1615XXXXXXX')
+          span (615) XXX-XXXX        
         
-          a(href='tel:1615XXXXXXX')
-            span (615) XXX-XXXX
-            
-          a.fancybox(class='fancybox.iframe' href='/_includes/map.html')
-            span.map Nashville, TN
-              span View Map
+        a.fancybox(href='#map')
+          span.map Nashville, TN
+          
+          include map
 
     .copyline
     

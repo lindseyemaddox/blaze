@@ -349,7 +349,7 @@
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_includes\/map.html",
 		"oF": 0,
 		"oS": 0
